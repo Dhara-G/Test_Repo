@@ -11,6 +11,7 @@ test:string="dhara tested git porporly working or not";
 test2:string="another string adding to check fot updates";
 
 test3:string="check onluy commit command";
+test4:string="cgdhcqjfvhfmbvqjmfvnq,fbv";
   constructor() { }
 
   ngOnInit(): void {
