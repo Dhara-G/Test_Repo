@@ -7,6 +7,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ChildComponent implements OnInit {
 test:string="dhara tested git porporly working or not";
+
+test2:string="another string adding to check fot updates";
   constructor() { }
 
   ngOnInit(): void {
