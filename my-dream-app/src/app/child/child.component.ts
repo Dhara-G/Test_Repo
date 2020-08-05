@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./child.component.css']
 })
 export class ChildComponent implements OnInit {
-
+test:string="dhara tested git porporly working or not";
   constructor() { }
 
   ngOnInit(): void {
